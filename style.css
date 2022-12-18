@@ -368,6 +368,7 @@ h1 {
     display: flex;
     align-items: center;
     margin-top: 34px;
+    text-decoration: none;
 }
 
 .third__block-desc-btn-text {
